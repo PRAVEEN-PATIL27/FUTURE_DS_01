@@ -121,9 +121,6 @@ The Power BI dashboard includes:
 
 <img width="100%" alt="Business Sales Analytics Dashboard" src="SCREENSHOT/DASHBOARD OVERVIEW.png">
 ---
-
-## 📁 Project Structure
-
 ## 📁 Project Structure
 
 ```text
