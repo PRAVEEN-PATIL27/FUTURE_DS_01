@@ -1,0 +1,30 @@
+﻿Order ID,Region,Product,Units Sold,Unit Price,Target Met,Discount %,Customer Rating,TotalRevenue,TotalDiscount,TRAD,Performance,Months,Calculations
+1004,West,Shirt,12,"₹ 37,392.00",Yes,0.05,4.3,"₹ 4,48,704","₹ 22,435","₹ 4,26,269",Good Quality,Mar,
+1005,East,Jacket,1,"₹ 46,853.00",No,0.15,2.8,"₹ 46,853","₹ 7,028","₹ 39,825",Needs Improvement,Apr,UNITSOLD
+1006,North,Jacket,6,"₹ 9,602.00",No,0,3.8,"₹ 57,612", ₹ -   ,"₹ 57,612",Needs Improvement,Apr,285
+1007,West,Jeans,7,"₹ 37,435.00",Yes,0,3.4,"₹ 2,62,045", ₹ -   ,"₹ 2,62,045",Needs Improvement,Jun,
+1017,East,Jeans,6,"₹ 32,254.00",Yes,0.1,4.7,"₹ 1,93,524","₹ 19,352","₹ 1,74,172",Good Quality,Apr,TOTALREVENUE
+1020,North,Shirt,18,"₹ 2,307.00",No,0.05,4.5,"₹ 41,526","₹ 2,076","₹ 39,450",Needs Improvement,Apr,"₹ 78,27,525"
+1021,South,Shirt,9,"₹ 19,956.00",Yes,0.05,4.1,"₹ 1,79,604","₹ 8,980","₹ 1,70,624",Good Quality,Mar,
+1025,West,Jeans,15,"₹ 3,370.00",No,0.15,3.3,"₹ 50,550","₹ 7,583","₹ 42,968",Needs Improvement,Jan,TOTAL DISCOUNT
+1029,West,Shirt,15,"₹ 32,392.00",Yes,0.05,4.3,"₹ 4,85,880","₹ 24,294","₹ 4,61,586",Good Quality,Mar,"₹ 5,07,956"
+1032,East,Shirt,18,"₹ 34,685.00",Yes,0.1,3.5,"₹ 6,24,330","₹ 62,433","₹ 5,61,897",Needs Improvement,Jan,
+1035,South,Jeans,6,"₹ 17,003.00",Yes,0.15,3.8,"₹ 1,02,018","₹ 15,303","₹ 86,715",Needs Improvement,Apr,TRAD
+1039,South,Shirt,5,"₹ 21,247.00",Yes,0.05,4.8,"₹ 1,06,235","₹ 5,312","₹ 1,00,923",Good Quality,Apr,"₹ 73,19,571"
+1046,South,Jeans,14,"₹ 37,393.00",Yes,0.1,3.9,"₹ 5,23,502","₹ 52,350","₹ 4,71,152",Needs Improvement,Jan,
+1050,South,Shirt,7,"₹ 37,937.00",Yes,0.1,2.9,"₹ 2,65,559","₹ 26,556","₹ 2,39,003",Needs Improvement,Jun,AVERAGE DISCOUNT
+1051,North,Jeans,8,"₹ 48,072.00",Yes,0.1,3,"₹ 3,84,576","₹ 38,458","₹ 3,46,118",Needs Improvement,Jun,0.077
+1053,West,Shirt,2,"₹ 29,504.00",No,0.1,2.7,"₹ 59,008","₹ 5,901","₹ 53,107",Needs Improvement,Mar,
+1057,West,Jacket,6,"₹ 19,291.00",Yes,0.1,4.5,"₹ 1,15,746","₹ 11,575","₹ 1,04,171",Good Quality,Jan,
+1064,South,Jeans,3,"₹ 44,940.00",Yes,0.1,4.4,"₹ 1,34,820","₹ 13,482","₹ 1,21,338",Good Quality,Apr,AVERAGE RATING
+1069,South,Jeans,14,"₹ 22,041.00",Yes,0.1,2.5,"₹ 3,08,574","₹ 30,857","₹ 2,77,717",Needs Improvement,Feb,3.81
+1070,South,Jacket,14,"₹ 31,906.00",Yes,0,4.2,"₹ 4,46,684", ₹ -   ,"₹ 4,46,684",Good Quality,Feb,
+1074,North,Jacket,5,"₹ 48,730.00",Yes,0.1,3.8,"₹ 2,43,650","₹ 24,365","₹ 2,19,285",Needs Improvement,Mar,TARGETMET
+1076,East,Jacket,12,"₹ 48,663.00",Yes,0,4.2,"₹ 5,83,956", ₹ -   ,"₹ 5,83,956",Good Quality,Apr,22
+1081,South,Shirt,17,"₹ 17,909.00",Yes,0,2.5,"₹ 3,04,453", ₹ -   ,"₹ 3,04,453",Needs Improvement,Jan,
+1083,East,Jeans,19,"₹ 23,978.00",Yes,0.1,3.4,"₹ 4,55,582","₹ 45,558","₹ 4,10,024",Needs Improvement,May,
+1085,West,Jeans,11,"₹ 7,137.00",Yes,0.05,4.7,"₹ 78,507","₹ 3,925","₹ 74,582",Good Quality,Jan,
+1091,South,Shirt,1,"₹ 2,106.00",No,0.15,4.4,"₹ 2,106",₹ 316,"₹ 1,790",Needs Improvement,Mar,
+1093,North,Jacket,15,"₹ 35,474.00",Yes,0.15,4.6,"₹ 5,32,110","₹ 79,817","₹ 4,52,294",Good Quality,Feb,
+1094,North,Jeans,19,"₹ 41,569.00",Yes,0,3.6,"₹ 7,89,811", ₹ -   ,"₹ 7,89,811",Needs Improvement,Feb,
+,,,,,,,,,,,,,
