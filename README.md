@@ -119,9 +119,10 @@ The Power BI dashboard includes:
 
 ## 📷 Dashboard Preview
 
-<img width="100%" alt="Business Sales Analytics Dashboard" src="Screenshots/dashboard_overview.png">
-
+<img width="100%" alt="Business Sales Analytics Dashboard" src="SCREENSHOT/DASHBOARD OVERVIEW.png">
 ---
+
+## 📁 Project Structure
 
 ## 📁 Project Structure
 
@@ -129,19 +130,19 @@ The Power BI dashboard includes:
 FUTURE_DS_01
 │
 ├── Dataset
-│   └── sales_dataset.csv
+│   └── sales.csv
 │
-├── SQL Queries
-│   └── sales_analysis.sql
+├── INTERNSHIP DASHBOARD
+│   └── INTERNSHIPDASHBOARD.pbix
 │
-├── Power BI Dashboard
-│   └── Business_Sales_Analytics.pbix
-│
-├── Report
+├── REPORT
 │   └── Business_Sales_Performance_Analytics_Report.pdf
 │
-├── Screenshots
-│   └── dashboard_overview.png
+├── SCREENSHOT
+│   └── DASHBOARD OVERVIEW.png
+│
+├── SQL queries
+│   └── salesanalysis.sql
 │
 └── README.md
 ```
